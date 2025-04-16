@@ -48,7 +48,6 @@ A web application that generates personalized career roadmaps using Google's Gem
 
 - `main.py` - FastAPI application and routes
 - `templates/` - HTML templates
-- `static/` - Static files (CSS, JS, images)
 - `requirements.txt` - Python dependencies
 - `.env` - Environment variables
 
@@ -57,5 +56,4 @@ A web application that generates personalized career roadmaps using Google's Gem
 - FastAPI
 - Google Gemini AI
 - Tailwind CSS
-- JavaScript
 - HTML5 
